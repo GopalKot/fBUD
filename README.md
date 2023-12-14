@@ -1,4 +1,4 @@
-# fBUD_public
+# fBUD
 Repo for "Uncertainty Directed Factorial Clinical Trials"
 
 There are three R files:
